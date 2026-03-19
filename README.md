@@ -23,9 +23,7 @@ Originally, I planned to use VMs, but:
 
 ## ⚙️ 使用架構（Architecture）
 
-- LXC1：Docker + Jupyter（上課用）
-- LXC2：AI Training（GPU）
-- LXC3～5：實驗室同學使用
+- LXC1~3：實驗室同學使用
 
 ---
 
@@ -33,5 +31,4 @@ Originally, I planned to use VMs, but:
 
 - Proxmox VE
 - LXC Container
-- Docker
 - GPU Sharing (NVIDIA)
